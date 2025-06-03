@@ -45,7 +45,7 @@ Une infrastructure scalable basée sur les meilleures pratiques de vos serveurs 
 ## 👥 Équipe
 #### Anthony C. [[Email](mailto:anthony@anhosting.fr)] - Founder
 #### Minox [[Email](mailto:minox@anhosting.fr)] - Founder & CPO 
-#### Nico A. [[Email](mailto:nicolas@anhosting.fr)] - Founder & CTO
+#### [Nico A.](https://github.com/Nico-du-34/) [[Email](mailto:nicolas@anhosting.fr)] - Founder & CTO
 #### [Martin L](https://github.com/martin-lechene/) [[Email](mailto:martin@anhosting.fr)] - Founder & CTO 
 
 ## Jobs 
